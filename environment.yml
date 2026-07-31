@@ -1,0 +1,13 @@
+name: acs-projection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - xarray
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - netCDF4
+  - cftime
+  - ipykernel

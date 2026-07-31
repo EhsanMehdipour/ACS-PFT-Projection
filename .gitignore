@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints/
+.DS_Store
+fig/.ipynb_checkpoints/
+PFT_concentration.nc
+PFT_concentration_log.nc
+fig/
