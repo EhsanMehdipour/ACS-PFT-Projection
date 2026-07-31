@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21729144.svg)](https://doi.org/10.5281/zenodo.21729144)
+
 # ACS PFT Projection
 
 This repository contains Jupyter notebooks for estimating chlorophyll-*a*
